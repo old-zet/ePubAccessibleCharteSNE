@@ -16,7 +16,7 @@ SEM-002: Do not repeat semantics across chunked content;https://idpf.org/epub/a1
 4 Techniques WCAG / 4.1 Guide général;http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm#sec-wcag-general;OK
 4 WCAG Techniques / 4.1 General Guidance;https://idpf.org/epub/a11y/techniques/techniques.html#sec-wcag-general;OK
 Web;https://www.w3.org/TR/wai-aria-1.1/#role_definitions;OK
-DPUB;https://www.w3.org/TR/dpub-aria-1.0/#roles;OK
+DPUB;https://www.w3.org/TR/dpub-aria-1.1/#roles;OK
 table de correspondance;https://idpf.github.io/epub-guides/epub-aria-authoring//;OK
 ACCESS-002 : Fournir plusieurs moyens pour accéder au contenu;http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm#access-002;OK
 ACCESS-002: Provide multiple ways to access the content;https://idpf.org/epub/a11y/techniques/techniques.html#access-002;OK
@@ -73,7 +73,7 @@ ISO_3166-1;https://fr.wikipedia.org/wiki/ISO_3166-1;OK
 3.1.2 Language of Parts;https://www.w3.org/TR/2008/REC-WCAG20-20081211/#meaning;OK
 EPUB;https://idpf.org/epub/profiles/edu/structure//;OK
 web;https://www.w3.org/TR/wai-aria-1.1/#role_definitions;OK
-DPUB;https://www.w3.org/TR/dpub-WAI-ARIA-1.0/#roles;HTTP 404
+DPUB;https://www.w3.org/TR/dpub-WAI-ARIA-1.0/#roles;OK
 table de correspondance;https://idpf.github.io/epub-guides/epub-aria-authoring//;OK
 SEM-001 : Inclure la sémantique ARIA et EPUB;http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm#sem-001;OK
 SEM-001: Include ARIA and EPUB semantics;https://idpf.org/epub/a11y/techniques/techniques.html#sem-001;OK
@@ -123,7 +123,7 @@ SEM-001: Include ARIA and EPUB semantics;https://idpf.org/epub/a11y/techniques/t
 3.1.3 Unusual Words;https://www.w3.org/TR/2008/REC-WCAG20-20081211/#meaning;OK
 3.1.4 Abréviations;https://www.w3.org/Translations/WCAG20-fr/#meaning;OK
 3.1.4 Abbreviations;https://www.w3.org/TR/2008/REC-WCAG20-20081211/#meaning;OK
-(source);https://www.w3.org/TR/html52/textlevel-semantics.html#the-cite-element;HTTP 301
+(source);https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-cite-element;OK
 SEM-001 : Inclure la sémantique ARIA et EPUB;http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm#sem-001;OK
 SEM-001: Include ARIA and EPUB semantics;https://idpf.org/epub/a11y/techniques/techniques.html#sem-001;OK
 1.3.1 Information et relations;https://www.w3.org/Translations/WCAG20-fr/#content-structure-separation;OK
@@ -224,17 +224,17 @@ Batch;https://inclusivepublishing.org/toolbox/accessibility-checker/getting-star
 IDPF/EPUBCheck;https://github.com/w3c/epubcheck;OK
 Downloading EpubCheck;https://github.com/w3c/epubcheck/wiki/Download;OK
 Running;https://github.com/w3c/epubcheck/wiki/Running;OK
-Ace by DAISY, Accessibility Checking Tool;https://inclusivepublishing.org/toolbox/accessibility-checker;HTTP 301
+Ace by DAISY, Accessibility Checking Tool;https://inclusivepublishing.org/toolbox/accessibility-checker/;OK
 Getting Started with Ace, by DAISY;https://github.com/w3c/epubcheck/wiki/Download;OK
 Installation;https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/#installation;OK
 Usage;https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/#usage;OK
 AXE;https://www.deque.com/axe/;OK
 4.1.1 Analyse syntaxique;https://www.w3.org/Translations/WCAG20-fr/#ensure-compat;OK
 4.1.1 Parsing;https://www.w3.org/TR/2008/REC-WCAG20-20081211/#ensure-compat;OK
-SMART;https://inclusivepublishing.org/tag/smart;HTTP 301
-full members;https://daisy.org/about-us/membership/full-members/;HTTP 403
-Inclusive Publishing Partners;https://daisy.org/about-us/membership/inclusive-publishing-partners/;HTTP 403
-coûts d’adhésion relativement raisonnables;https://daisy.org/about-us/membership/joining-daisy/;HTTP 403
+SMART;https://inclusivepublishing.org/tag/smart/;OK
+full members;https://daisy.org/about-us/membership/full-members/;OK
+Inclusive Publishing Partners;https://daisy.org/about-us/membership/inclusive-publishing-partners/;OK
+coûts d’adhésion relativement raisonnables;https://daisy.org/about-us/membership/joining-daisy/;OK
 EPUB Accessibility;https://idpf.org/epub/a11y/accessibility.html;OK
 EPUB Accessibility techniques - version d’origine en anglais;https://idpf.org/epub/a11y/techniques/techniques.html;OK
 EPUB Accessibility techniques - version traduite en français;http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm;OK
@@ -242,7 +242,7 @@ EPUB Accessibility Techniques 1.1 - W3C Décembre 2021;https://www.w3.org/TR/epu
 Vocabulaire epub:type;https://idpf.org/epub/profiles/edu/structure/;OK
 EPUB Structural Semantics to ARIA Roles Mapping Guide;https://idpf.github.io/epub-guides/epub-aria-authoring/;OK
 EPUB Accessibility;https://www.w3.org/submissions/epub-a11y/;OK
-How to Meet WCAG 2.1 - Quick reference;https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1;HTTP 301
+How to Meet WCAG 2.1 - Quick reference;https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1;OK
 Understanding WCAG 2.0 - A guide to understanding and implementing Web Content Accessibility Guidelines 2.0;https://www.w3.org/TR/UNDERSTANDING-WCAG20/Overview.html;OK
 Introduction à Comprendre les WCAG 2.0;https://www.w3.org/Translations/NOTE-UNDERSTANDING-WCAG20-fr/Overview.html;OK
 Web Content Accessibility Guidelines (WCAG) 2.1  – version anglaise;https://www.w3.org/TR/WCAG21/;OK
@@ -252,16 +252,16 @@ Rôles ARIA pour le web;https://www.w3.org/TR/wai-aria-1.1/#role_definitions;OK
 Rôles ARIA DPUB (Digital publication);https://www.w3.org/TR/dpub-aria-1.0/#roles;OK
 Accessible Publishing Knowledge Base - HTML;http://kb.daisy.org/publishing/docs/html/;OK
 Ressources pour la production de livres nativement accessibles – SNE – Commission numérique – groupe normes et standards;https://www.sne.fr/numerique-2/ressources-pour-la-production-de-livres-nativement-accessibles/;OK
-[EPUB 3Overview] EPUB 3 Overview;https://www.w3.org/publishing/epub3/epub-overview.html;HTTP 404
-[ContentDocs32] EPUB Content Documents 3.2;https://www.w3.org/publishing/epub3/epub-contentdocs.html;HTTP 404
-[OCF32] EPUB Open Container Format (OCF) 3.2;https://www.w3.org/publishing/epub3/epub-ocf.html%20;HTTP 404
-[Packages32] EPUB Packages 3.2;https://www.w3.org/publishing/epub3/epub-packages.html%20;HTTP 404
+[EPUB 3Overview] EPUB 3 Overview;https://www.w3.org/TR/epub-overview-33/;OK
+[ContentDocs32] EPUB Content Documents 3.2;https://www.w3.org/TR/epub/#sec-contentdocs;OK
+[OCF32] EPUB Open Container Format (OCF) 3.2;https://www.w3.org/TR/epub/#sec-ocf;OK
+[Packages32] EPUB Packages 3.2;https://www.w3.org/publishing/epub32/epub-packages.html;OK but non applicable for 3.3
 [SVG] Scalable Vector Graphics (SVG) 1.1 (Second Edition);https://www.w3.org/TR/SVG11/;OK
 [StructureVocab] EPUB 3 Structural Semantics Vocabulary;https://idpf.github.io/epub-vocabs/structure/;OK
-[EPUB 32Changes] EPUB 3.2 Changes;https://www.w3.org/publishing/epub3/epub-changes.html;HTTP 404
+[EPUB 32Changes] EPUB 3.2 Changes;https://www.w3.org/publishing/epub32/epub-changes.html;OK but non applicable for 3.3
 EPUBCheck;https://github.com/w3c/epubcheck/wiki/Epubcheck-Development-Update-and-Maintenance-Request-for-Proposal;OK
 Ace;https://daisy.github.io/ace/;OK
 SMART;https://inclusivepublishing.org/tag/smart/;OK
-Image Description Guidelines - DIAGRAM Center;http://diagramcenter.org/table-of-contents-2.html;HTTP 403
-Comment décrire les images ? Adaptation française du Guide « Image Description Guidelines » du DIAGRAM Center;https://www.braillenet.org/decrire-images-adaptation-francaise-guide-image-description-guidelines-diagram-center;"Erreur (HTTPSConnectionPool(host='www.braillenet.org', port=443): Max retries exceeded with url: /decrire-images-adaptation-francaise-guide-image-description-guidelines-diagram-center (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.braillenet.org'. (_ssl.c:1020)""))))"
+Image Description Guidelines - DIAGRAM Center;http://diagramcenter.org/table-of-contents-2.html;OK
+Comment décrire les images ? Adaptation française du Guide « Image Description Guidelines » du DIAGRAM Center;https://www.universite-paris-saclay.fr/sites/default/files/2023-02/DIAGRAM_Image-Description-Guidelines_FR.pdf;OK
 Xiaoying Riley;https://themes.3rdwavemedia.com;OK
